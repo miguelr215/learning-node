@@ -1,0 +1,1 @@
+exports.myText = "what up dog?";
